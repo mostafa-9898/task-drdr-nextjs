@@ -1,0 +1,10 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "قرص",
+            "image": "/assets/qors.jpg",
+            "price": "22.000"
+        }
+    ]
+}
